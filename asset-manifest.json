@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ab-spa/home/static/css/main.3ed4388d.css",
-    "main.js": "/ab-spa/home/static/js/main.12cc95d6.js",
-    "index.html": "/ab-spa/home/index.html",
-    "main.3ed4388d.css.map": "/ab-spa/home/static/css/main.3ed4388d.css.map",
-    "main.12cc95d6.js.map": "/ab-spa/home/static/js/main.12cc95d6.js.map"
+    "main.css": "/ab-spa/static/css/main.3ed4388d.css",
+    "main.js": "/ab-spa/static/js/main.d94783b9.js",
+    "index.html": "/ab-spa/index.html",
+    "main.3ed4388d.css.map": "/ab-spa/static/css/main.3ed4388d.css.map",
+    "main.d94783b9.js.map": "/ab-spa/static/js/main.d94783b9.js.map"
   },
   "entrypoints": [
     "static/css/main.3ed4388d.css",
-    "static/js/main.12cc95d6.js"
+    "static/js/main.d94783b9.js"
   ]
 }
