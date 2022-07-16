@@ -14,6 +14,7 @@
 - Redux
 - React Router 6
 - Materialize
+- API: https://picsum.photos/
 
 **Что нужно было сделать:**
 
